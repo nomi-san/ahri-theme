@@ -177,7 +177,7 @@
     background-position-y: -34px;
 }
 
-.mission-button {
+/*.mission-button {
     position: relative;
     outline: none;
     border: none;
@@ -190,25 +190,25 @@
     background-position-y: 0px;
     height: 32px;
     width: 38px;
-}
+}*/
 
-.mission-button:hover {
+/*.mission-button:hover {
     background-position-y: -32px;
-}
+}*/
 
-.lol-social-chat-toggle-button {
+/*.lol-social-chat-toggle-button {
     background-color: transparent !important;
     background: transparent;
     position: relative;
     z-index: 1;
-}
+}*/
 
-.lol-social-chat-toggle-button .chat-button {
-    background-color: transparent !important;
-    background: transparent;
+/*.lol-social-chat-toggle-button .chat-button {
+    /*background-color: transparent !important;*/
+    /*background: transparent;*/
     position: relative;
     z-index: 1;
-}
+}*/
 
 .lol-social-identity lol-social-avatar .xp-ring {
     background-color: transparent !important;
